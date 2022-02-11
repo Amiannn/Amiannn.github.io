@@ -17,9 +17,9 @@ navbar-links:
   About Me: "aboutme"
   Demos:
     - Simple HmmGmm: "https://simple-hmmgmm-demo.herokuapp.com/"
-    - Nerual Network: "https://amiannn.github.io/Neural-Network/"
-    - 3D Graphic Engine: "https://amiannn.github.io/3D-Graphic-Engine/"
-    - 2D Physics Engine: "https://amiannn.github.io/2D-Physics-Engine/"
+    - Nerual Network: "https://amiannn.github.io/demo/Neural-Network/"
+    - 3D Graphic Engine: "https://amiannn.github.io/demo/3D-Graphic-Engine/"
+    - 2D Physics Engine: "https://amiannn.github.io/demo/2D-Physics-Engine/"
 
 # --- Logo --- #
 

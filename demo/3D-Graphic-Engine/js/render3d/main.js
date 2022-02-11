@@ -1,7 +1,7 @@
-document.writeln("<script type='text/javascript' src='https://amiannn.github.io/3D-Graphic-Engine/js/render3d/vector3d.js'></script>");
-document.writeln("<script type='text/javascript' src='https://amiannn.github.io/3D-Graphic-Engine/js/render3d/mesh3d.js'></script>");
-document.writeln("<script type='text/javascript' src='https://amiannn.github.io/3D-Graphic-Engine/js/render3d/camera3d.js'></script>");
-document.writeln("<script type='text/javascript' src='https://amiannn.github.io/3D-Graphic-Engine/js/render3d/render3d.js'></script>");
+document.writeln("<script type='text/javascript' src='demo/3D-Graphic-Engine/js/render3d/vector3d.js'></script>");
+document.writeln("<script type='text/javascript' src='demo/3D-Graphic-Engine/js/render3d/mesh3d.js'></script>");
+document.writeln("<script type='text/javascript' src='demo/3D-Graphic-Engine/js/render3d/camera3d.js'></script>");
+document.writeln("<script type='text/javascript' src='demo/3D-Graphic-Engine/js/render3d/render3d.js'></script>");
 
 function initialize(path)
 {
@@ -50,7 +50,7 @@ function main(myMesh)
     function selectedMeshChange()
     {
         var mesh_file = ["box.json", "book.json", "funct.json"];
-        var path = 'https://amiannn.github.io/3D-Graphic-Engine/js/render3d/meshs/';
+        var path = 'demo/3D-Graphic-Engine/js/render3d/meshs/';
         var xmlhttp = new XMLHttpRequest();
         xmlhttp.onreadystatechange = function() {
             if (this.readyState == 4 && this.status == 200) {

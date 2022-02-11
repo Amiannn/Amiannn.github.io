@@ -1,9 +1,9 @@
-document.writeln("<script type='text/javascript' src='https://amiannn.github.io/2D-Physics-Engine/js/physicsEngine/vector2d.js'></script>");
-document.writeln("<script type='text/javascript' src='https://amiannn.github.io/2D-Physics-Engine/js/physicsEngine/entity.js'></script>");
-document.writeln("<script type='text/javascript' src='https://amiannn.github.io/2D-Physics-Engine/js/physicsEngine/world.js'></script>");
-document.writeln("<script type='text/javascript' src='https://amiannn.github.io/2D-Physics-Engine/js/physicsEngine/engine.js'></script>");
-document.writeln("<script type='text/javascript' src='https://amiannn.github.io/2D-Physics-Engine/js/physicsEngine/render.js'></script>");
-document.writeln("<script type='text/javascript' src='https://amiannn.github.io/2D-Physics-Engine/js/physicsEngine/entityAdder.js'></script>");
+document.writeln("<script type='text/javascript' src='demo/2D-Physics-Engine/js/physicsEngine/vector2d.js'></script>");
+document.writeln("<script type='text/javascript' src='demo/2D-Physics-Engine/js/physicsEngine/entity.js'></script>");
+document.writeln("<script type='text/javascript' src='demo/2D-Physics-Engine/js/physicsEngine/world.js'></script>");
+document.writeln("<script type='text/javascript' src='demo/2D-Physics-Engine/js/physicsEngine/engine.js'></script>");
+document.writeln("<script type='text/javascript' src='demo/2D-Physics-Engine/js/physicsEngine/render.js'></script>");
+document.writeln("<script type='text/javascript' src='demo/2D-Physics-Engine/js/physicsEngine/entityAdder.js'></script>");
 
 function main()
 {

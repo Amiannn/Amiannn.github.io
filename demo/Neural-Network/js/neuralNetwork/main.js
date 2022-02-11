@@ -1,9 +1,9 @@
-document.writeln("<script type='text/javascript' src='https://amiannn.github.io/Neural-Network/js/autoDifferentiation/node.js'></script>");
-document.writeln("<script type='text/javascript' src='https://amiannn.github.io/Neural-Network/js/autoDifferentiation/computeGraph.js'></script>");
-document.writeln("<script type='text/javascript' src='https://amiannn.github.io/Neural-Network/js/neuralNetwork/layers.js'></script>");
-document.writeln("<script type='text/javascript' src='https://amiannn.github.io/Neural-Network/js/neuralNetwork/models.js'></script>");
-document.writeln("<script type='text/javascript' src='https://amiannn.github.io/Neural-Network/js/neuralNetwork/dataGenerator.js'></script>");
-document.writeln("<script type='text/javascript' src='https://amiannn.github.io/Neural-Network/js/neuralNetwork/modelDrawer.js'></script>");
+document.writeln("<script type='text/javascript' src='demo/Neural-Network/js/autoDifferentiation/node.js'></script>");
+document.writeln("<script type='text/javascript' src='demo/Neural-Network/js/autoDifferentiation/computeGraph.js'></script>");
+document.writeln("<script type='text/javascript' src='demo/Neural-Network/js/neuralNetwork/layers.js'></script>");
+document.writeln("<script type='text/javascript' src='demo/Neural-Network/js/neuralNetwork/models.js'></script>");
+document.writeln("<script type='text/javascript' src='demo/Neural-Network/js/neuralNetwork/dataGenerator.js'></script>");
+document.writeln("<script type='text/javascript' src='demo/Neural-Network/js/neuralNetwork/modelDrawer.js'></script>");
 
 function build_model()
 {
